@@ -1,0 +1,9 @@
+[package]
+name = "l-systems"
+version = "0.1.0"
+authors = ["DaOnlyOwner <jan@hemming-haas.eu>"]
+
+[dependencies]
+image = "*"
+imageproc = "*"
+rand = "0.3"
